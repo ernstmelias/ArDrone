@@ -2,7 +2,7 @@ ArDrone 2.0 Sample Flight Code
 ======================
 Sample flight code for the Ar Drone 2.0 Quad Copter. 
 
-![title](../images/ardrone.jpg)
+![title](images/ardrone.jpg)
 
 * [Get One ](https://www.amazon.com/Parrot-AR-Drone-2-0-Elite-Quadcopter/dp/B00FS7SSD6) 
 * [Guide ](https://github.com/yolanother/AR.FreeFlight/blob/master/Docs/ARDrone_Developer_Guide.pdf) 
