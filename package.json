@@ -1,0 +1,19 @@
+{
+  "name": "ardrone",
+  "version": "1.0.0",
+  "description": "Sample sample code for ar-drone 2.0",
+  "main": "flight.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node flight.js"
+  },
+  "author": "Ernst Melias",
+  "license": "MIT",
+  "dependencies": {
+    "ar-drone": "^0.3.3"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
